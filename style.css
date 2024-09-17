@@ -54,6 +54,7 @@ input[type="button"] {
 
 .btn {
     margin-bottom: 10px;
+    cursor: pointer;
 }
 
 .btn:hover {
